@@ -45,7 +45,12 @@
 ## 🌆 GitHub Skyline  
 [![GitHub Skyline](https://skyline.github.com/Duranjit/2023.svg)](https://skyline.github.com/Duranjit)
 
---
+---
+
+## 📈 GitHub Activity Graph  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Duranjit&theme=tokyonight)
+
+---
 
 ## 🐍 Contribution Graph  
 <div align="center">
