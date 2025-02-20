@@ -44,7 +44,7 @@
 
 ## 🐍 Contribution Graph  
 <div align="center">
-  <img alt="snake eating my contributions" src="https://github.com/Duranjit/Duranjit/.github/workflows/snake.yml" />
+  <img alt="snake eating my contributions" src="https://github.com/Duranjit/Duranjit/blob/main/.github/workflows/.github/workflows/snake.yml" />
 </div>
 
 ---
