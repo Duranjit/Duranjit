@@ -47,11 +47,6 @@
 
 ---
 
-## 🚀 Coding Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Duranjit&theme=tokyonight)
-
----
-
 ## 🏆 GitHub Achievements  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Duranjit&theme=darkhub)
 
