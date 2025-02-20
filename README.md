@@ -42,6 +42,11 @@
 
 ---
 
+## 🌆 GitHub Skyline  
+[![GitHub Skyline](https://skyline.github.com/Duranjit/2023.svg)](https://skyline.github.com/Duranjit)
+
+--
+
 ## 🐍 Contribution Graph  
 <div align="center">
   <img alt="snake eating my contributions" src="https://github.com/Duranjit/Duranjit/blob/main/.github/workflows/.github/workflows/snake.yml" />
