@@ -55,13 +55,6 @@
 ## 🏆 GitHub Achievements  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Duranjit&theme=darkhub)
 
---
-
-## 🐍 Contribution Graph  
-<div align="center">
-  <img alt="snake eating my contributions" src="https://github.com/Duranjit/Duranjit/blob/main/.github/workflows/.github/workflows/snake.yml" />
-</div>
-
 ---
 
 ## 📫 Connect with me  
