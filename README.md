@@ -13,32 +13,7 @@
 <br/>
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-<div align="left">
- 
-🔭 **Currently Working At**: Eka Care  
-🌱 **Learning**: Django, DevOps, and Blockchain  
-💡 **Passionate About**: Software development, APIs, and automation  
-⚡ **Fun Fact**: "First commit is always scary!"  
 
-</div>
-
----
-
-## 🛠 Tech Stack  
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=go,python,fastapi,django,postgresql,aws,docker,kubernetes" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,vscode,postman" /><br>
-</div>
-
----
-
-## 📊 GitHub Stats  
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Duranjit&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
-  <img width=368 src="https://github-readme-stats.vercel.app/api?username=Duranjit&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub stats" />
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duranjit&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="top langs" />
-</div>
 
 ---
 
