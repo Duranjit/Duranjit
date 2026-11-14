@@ -17,11 +17,6 @@
 
 ---
 
-## 📈 GitHub Activity Graph  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Duranjit&theme=tokyonight)
-
----
-
 ## 🏆 GitHub Achievements  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Duranjit&theme=darkhub)
 
